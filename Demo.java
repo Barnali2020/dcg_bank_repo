@@ -1,3 +1,4 @@
 class Demo {
-    private int i=0;
+    private int i=10;
+
 }
